@@ -127,7 +127,7 @@ dividia.shift()
 dividia.pop()
 const riunisci = dividia.join("")
 return riunisci
-return result
+
 }
 console.log(cutString("banana"))
 /* EXERCISE 10
